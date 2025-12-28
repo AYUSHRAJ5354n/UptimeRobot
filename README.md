@@ -11,12 +11,12 @@
 ᴛʜɪs ᴘʀᴏᴊᴇᴄᴛ ɪs ᴀ sɪᴍᴘʟᴇ ᴡᴇʙʜᴏᴏᴋ ғᴏʀ ᴜᴘᴛɪᴍᴇʀᴏʙᴏᴛ ᴛʜᴀᴛ sᴇɴᴅs ʏᴏᴜ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇssᴀɢᴇ.
 
 <p align="center">
-<a href="https://github.com/RioShin2025/UptimeRobot/stargazers"><img src="https://img.shields.io/github/stars/RioShin2025/UptimeRobot
+<a href="https://github.com/RioShin2025/Dra-Sama/stargazers"><img src="https://img.shields.io/github/stars/Dra-Sama/UptimeRobot
                                                           
-<a href="https://github.com/RioShin2025/uptimeRobot/network/members"> <img src="https://img.shields.io/github/forks/RioShin2025/uptimeRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/RioShin2025/uptimeRobot/blob/shanks/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/Dra-Sama/UptimeRobot/network/members"> <img src="https://img.shields.io/github/forks/Dra-Sama/UptimeRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/Dra-Sama/UptimeRobot/blob/shanks/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/RioShin2025/uptimeRobot/commits/RioShin2025"> <img src="https://img.shields.io/github/last-commit/RioShin2025/uptimeRobot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/Dra-Sama/uptimeRobot/commits/Dra-Sama"> <img src="https://img.shields.io/github/last-commit/Dra-Sama/UptimeRobot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/RioShin/SequenceBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Dra-Sama/SequenceBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 <h3 align="center">
@@ -40,7 +40,7 @@
 ### 1º. Clone this repository
 
 ```
-git clone https://github.com/RioShin2025/UptimeRobot.git
+git clone https://github.com/Dra-Sama/UptimeRobot.git
 ```
 or in case you don't have git
 ```
