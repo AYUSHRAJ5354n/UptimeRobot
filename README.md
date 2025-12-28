@@ -11,7 +11,7 @@
 ᴛʜɪs ᴘʀᴏᴊᴇᴄᴛ ɪs ᴀ sɪᴍᴘʟᴇ ᴡᴇʙʜᴏᴏᴋ ғᴏʀ ᴜᴘᴛɪᴍᴇʀᴏʙᴏᴛ ᴛʜᴀᴛ sᴇɴᴅs ʏᴏᴜ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇssᴀɢᴇ.
 
 <p align="center">
-<a href="https://github.com/RioShin2025/Dra-Sama/stargazers"><img src="https://img.shields.io/github/stars/Dra-Sama/UptimeRobot
+<a href="https://github.com/Dra-Sama/UptimeRobot/stargazers"><img src="https://img.shields.io/github/stars/Dra-Sama/UptimeRobot
                                                           
 <a href="https://github.com/Dra-Sama/UptimeRobot/network/members"> <img src="https://img.shields.io/github/forks/Dra-Sama/UptimeRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/Dra-Sama/UptimeRobot/blob/shanks/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
