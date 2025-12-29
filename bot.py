@@ -11,15 +11,15 @@ API_ID = int(os.environ.get("API_ID", "1"))
 API_HASH = os.environ.get("API_HASH", "")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 
-DB_URL = os.environ.get("DB_URL", "")
+DB_URL = os.environ.get("DB_URL", "mongodb+srv://AYU:AYU@cluster0.pmliawm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DB_NAME = os.environ.get("DB_NAME", "UptimeRobot")
 
-OWNER = int(os.environ.get("OWNER", "8367080346"))
-ADMINS = os.environ.get("ADMINS", "1335306418")
+OWNER = int(os.environ.get("OWNER", "1685470205"))
+ADMINS = os.environ.get("ADMINS", "1685470205")
 ADMINS = [int(admin) for admin in (ADMINS).split(" ")]
 ADMINS.append(OWNER)
 
-MAIN_CHANNEL = os.environ.get("MAIN_CHANNEL", "BOTSKINGDOMSGROUP")
+MAIN_CHANNEL = os.environ.get("MAIN_CHANNEL", "AYU_BOTS")
 FORCE_SUB_TEXT = os.environ.get(
     "FORCE_SUB_TEXT",
     """<b><i>❗️ You must join our channel before using this feature:</i></b>"""
