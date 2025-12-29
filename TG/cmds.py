@@ -69,7 +69,7 @@ I stay awake — watching your website.**
         ],
         [
             InlineKeyboardButton("📚 Help", callback_data="help"),
-            InlineKeyboardButton("📢 Channel", url="https://t.me/Wizard_Bots"),
+            InlineKeyboardButton("📢 Channel", url="https://t.me/AYU_BOTS"),
         ],
     ]
     if message.from_user.id in client.setting["ADMINS"]:
